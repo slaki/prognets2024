@@ -66,6 +66,9 @@ For VS Code, you can find further information [here](https://code.visualstudio.c
 
 If you are already familiar with remote development, feel free to continue with your favorite code editor/setup.
 
+## Video on setup the VM and VS-Code
+[Link to the video](https://ikelte-my.sharepoint.com/:v:/g/personal/lakis_inf_elte_hu/EbZV-n9mCM1EhDg1i3Ar0IgBzwwOIGKTL75bYvkTJiUjBA?e=p4jWuu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Exercises
 
 In this section, we provide links to the weekly exercises.
