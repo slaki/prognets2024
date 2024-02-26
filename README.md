@@ -88,6 +88,9 @@ cd /home/p4/prognets2024
 git pull
 ```
 
+### Cheat sheet
+[A cheat sheet for P4-16 is available.](https://lakis.web.elte.hu/prognets201920II/Labs/p4-cheat-sheet.pdf) 
+
 ### Week 1
 
 - [Introduction to P4](./01-P4_Introduction) Source: https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises/-/tree/main
