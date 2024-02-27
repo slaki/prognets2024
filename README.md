@@ -9,6 +9,7 @@ Here you will find the weekly exercises and instructions on how to run these exe
     - [Download VM image](#download-vm-image)
     - [Remote Development](#remote-development)
     - [VM Contents](#vm-contents)
+    - [Apple M1 and M2 processors](#apple-m1-and-m2-processors)
 - [Exercises](#exercises)
     - [Week 1](#week-1)
 
@@ -68,6 +69,9 @@ If you are already familiar with remote development, feel free to continue with 
 
 ## Video on setup the VM and VS-Code
 [Link to the video](https://ikelte-my.sharepoint.com/:v:/g/personal/lakis_inf_elte_hu/EbZV-n9mCM1EhDg1i3Ar0IgBzwwOIGKTL75bYvkTJiUjBA?e=p4jWuu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## Apple M1 and M2 processors
+If you use Apple MacBook with M1/M2 processors it may happen that VirtualBox does not execute the VM properly (unexpected error after the VM execution). In this case, you can use QEMU with the official [qcow2 image of p4-utils](https://polybox.ethz.ch/index.php/s/QlrfHm7uYw6vISe). According to our experiences, QEMU works fine on this platform.
 
 ## Exercises
 
