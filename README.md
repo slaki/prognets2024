@@ -101,5 +101,5 @@ git pull
 - [Layer 2 Switch](./02-L2_Switching) Source: https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises/-/tree/main
 
 ### Week 4
-- [Calculator](./03-Calc)
+- [Calculator](./03-Calc) Source: P4 tutorials
 - [Heavy Hitter Detection](./04-HHDetection) Source: https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises/-/tree/main
