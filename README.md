@@ -102,4 +102,4 @@ git pull
 
 ### Week 4
 - [Calculator](./03-Calc)
-- [Heavy Hitter Detection](https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises/-/tree/main/04-Probabilistic_Data_Structures/01-Heavy_Hitter_Detector?ref_type=heads)
+- [Heavy Hitter Detection](./04-HHDetection) Source: https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises/-/tree/main
