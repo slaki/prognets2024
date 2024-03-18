@@ -9,6 +9,7 @@ Here you will find the weekly exercises and instructions on how to run these exe
     - [Download VM image](#download-vm-image)
     - [Remote Development](#remote-development)
     - [VM Contents](#vm-contents)
+    - [Apple M1 and M2 processors](#apple-m1-and-m2-processors)
 - [Exercises](#exercises)
     - [Week 1](#week-1)
 
@@ -66,6 +67,12 @@ For VS Code, you can find further information [here](https://code.visualstudio.c
 
 If you are already familiar with remote development, feel free to continue with your favorite code editor/setup.
 
+## Video on setup the VM and VS-Code
+[Link to the video](https://ikelte-my.sharepoint.com/:v:/g/personal/lakis_inf_elte_hu/EbZV-n9mCM1EhDg1i3Ar0IgBzwwOIGKTL75bYvkTJiUjBA?e=p4jWuu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## Apple M1 and M2 processors
+If you use Apple MacBook with M1/M2 processors it may happen that VirtualBox does not execute the VM properly (unexpected error after the VM execution). In this case, you can use QEMU with the official [qcow2 image of p4-utils](https://polybox.ethz.ch/index.php/s/QlrfHm7uYw6vISe). According to our experiences, QEMU works fine on this platform.
+
 ## Exercises
 
 In this section, we provide links to the weekly exercises.
@@ -85,7 +92,14 @@ cd /home/p4/prognets2024
 git pull
 ```
 
-### Week 1
+### Cheat sheet
+[A cheat sheet for P4-16 is available.](https://lakis.web.elte.hu/prognets201920II/Labs/p4-cheat-sheet.pdf) 
+
+### Week 1-4
 
 - [Introduction to P4](./01-P4_Introduction) Source: https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises/-/tree/main
 - [Layer 2 Switch](./02-L2_Switching) Source: https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises/-/tree/main
+
+### Week 4
+- [Calculator](./03-Calc)
+- [Heavy Hitter Detection](https://gitlab.ethz.ch/nsg/public/adv-net-2022-exercises/-/tree/main/04-Probabilistic_Data_Structures/01-Heavy_Hitter_Detector?ref_type=heads)
